@@ -158,7 +158,7 @@
                   <Group type="103" groupAlignment="1" max="-2" attributes="0">
                       <Component id="jButton4" alignment="1" max="32767" attributes="0"/>
                       <Component id="jButton8" alignment="1" pref="61" max="32767" attributes="0"/>
-                      <Component id="jButton7" alignment="1" max="32767" attributes="0"/>
+                      <Component id="jButton7" alignment="1" pref="61" max="32767" attributes="0"/>
                       <Component id="jButton6" alignment="1" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
